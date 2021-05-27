@@ -11,9 +11,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+2) Introduction + brief information about the project.
+3) Clear design statement <br>
+4) What is the issue and why do you think it is important to resolve that issues by your project? <br>
+5) Competitor Analysis [Assignment 1 and 2] <br>
+Summary and link to heristics and usability testing.
+5) User research. Contextual Inquiry, Assignment 4. 
+6) UX storytelling. Personal scenario, Assignment 5.
+7) Wireframe and graphic design element variation. Assignment 6 and 7. 
+8) Low-fidelity prototype. Wireflow in Assignment 6.
+9) High fidelity prototype. 
+10) Optional evaluation and revision history.
+Cognitive walkthrough, impression test, accessibility audit, usability testing, summary and link to notes.
+11) Pitch video.
+12) Conclusion: What did you learn?
 
 - Bulleted
 - List
