@@ -35,8 +35,9 @@ Summary and link to your assignment folder
 Summary and link to the sketches (may contains the multiple versions and
 evaluation history)
 
-## High-fidelity Prototype ## (functional/interactive prototype, assignment07)
+## High-fidelity Prototype ## 
 
+(functional/interactive prototype, assignment07)
 Summary statement and link to or an embedded prototype
 
 ## Optional Evaluation and Revision History ##
