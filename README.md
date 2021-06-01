@@ -37,6 +37,8 @@ evaluation history)
 
 ## High-fidelity Prototype ## 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRTitlnkgJGe96PjHmSxgjf%2FGenius-Mobile-Prototype%3Fnode-id%3D101%253A101%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+
 (functional/interactive prototype, assignment07)
 Summary statement and link to or an embedded prototype
 
