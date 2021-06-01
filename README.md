@@ -4,27 +4,61 @@ You can use the [editor on GitHub](https://github.com/jackieqvo/jackieqvo/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Bridging Generations: The Intersection of Digital Instruction and Tentative Questions #
+## Assignment 08: Project Portfolio & Documentation ##
+__Digital Humanities 110 | Jacqueline "Jackie" Vo__
+
+## Introduction ## 
+
+What is the project about? The motivation of the project and possible contribution.
+
+## Design Statement ## 
+
+What is the issue and Why do you think it is important to resolve that issue by your project? 
+
+## Competitor Analysis ## 
+
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated. Assignment 1&2.
+
+## User Research ## 
+
+Summary and link to your assignment folder. 
+Contextual inquiry and Assignment 03.
+
+## UX Storytelling ##
+
+[persona+scenario, assignment04]
+Summary and link to your assignment folder
+
+## Wireframe and Graphic Design Element Variation
+
+[assignment05 + part of 06]
+
+## Low-fidelity Prototype ##
+(wireflow, assignment06) 
+Summary and link to the sketches (may contains the multiple versions and
+evaluation history)
+
+## High-fidelity Prototype ## (functional/interactive prototype, assignment07)
+
+Summary statement and link to or an embedded prototype
+
+## Optional Evaluation and Revision History ##
+
+Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+## Pitch video ##
+
+[update the video after recording your presentation]
+
+## Conclusion ## 
+
+What you learned throughout the process.
+
 
 `markdown`
 Syntax highlighted code block
-
-2) Introduction + brief information about the project.
-3) Clear design statement <br>
-4) What is the issue and why do you think it is important to resolve that issues by your project? <br>
-5) Competitor Analysis [Assignment 1 and 2] <br>
-Summary and link to heristics and usability testing.
-5) User research. Contextual Inquiry, Assignment 4. 
-6) UX storytelling. Personal scenario, Assignment 5.
-7) Wireframe and graphic design element variation. Assignment 6 and 7. 
-8) Low-fidelity prototype. Wireflow in Assignment 6.
-9) High fidelity prototype. 
-10) Optional evaluation and revision history.
-Cognitive walkthrough, impression test, accessibility audit, usability testing, summary and link to notes.
-11) Pitch video.
-12) Conclusion: What did you learn?
 
 - Bulleted
 - List
