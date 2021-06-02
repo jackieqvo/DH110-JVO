@@ -81,6 +81,17 @@ The two personas I focus on are August and Anne. While August is a academically 
 
 ![Version 2 of Wireflow](prototypewireflow.jpg)
 
+> 1. Blue arrows are for the explore page function.
+> 2. The green arrows are for the search page function.
+> 3. Purple arrows are to help the users navigate home. 
+> 4. The pink arrows help navigate to related articles. 
+> 5. Olive helps the user return to the article.
+> 6. Orange represents the feedback option.
+
+### Final Revisions ###
+
+For the final prototype, the tasks mentioned above were altered. Some functions are not usable on the prototype while the function of looking for related articles and exploring more articles are merged into one section. Additional features were added as well. *See High-fidelity Prototype portion of this documentation*. 
+
 > [Read More about the Process of Making a Low-Fidelity Prototype](https://github.com/jackieqvo/DH110-JACKIEVO/blob/98721efc44b71dd85f13e1087bf250c5ee31875d/Assignments/Assignment%2005/Assignment%2005.md). | [See Interface Design Part 1 and 2](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md).
 
 
