@@ -51,7 +51,7 @@ Summary and link to your assignment folder. During the inquiry, I gave broad tas
 
 By utilizing UX storytelling, I will be able to better understand the user's perspective and thus, continue to filter out potential biases and personal points that I may have held onto during the usability testing and the contextual inquiry interview. In addition to this, UX storytelling is able to build upon the data that is gathered from these interviews by pushes the focus onto the user. These methods are meant to be user-centered and a user's experience goes beyond their interaction with a website or program's design.
 
-The two personas I focus on are August and Anne. While August is a academically oriented individual, Anne is someone that is someone who is only beginning to learn again. The two personas are on opposite ends of the spectrum. With these personas and scenarios in mind, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
+The two personas I focus on are August and Anne. While August is a academically oriented individual, Anne is someone that is only beginning to learn again. The two personas are on opposite ends of the academic spectrum. With these personas and scenarios in mind, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
 
 ![Persona 1 and 2](personascenario.gif)
 
