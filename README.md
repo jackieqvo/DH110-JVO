@@ -22,7 +22,7 @@ The UX project that I am designing is meant to be a start towards bridging the g
 [wikiHow](https://www.wikihow.com/Main-Page) | [Dummies](https://www.dummies.com/) |
 ![wikiHow Home page](wikiHowhome.png) | ![Dummies Home page](Dummieshome.png) |
 
-**Overall Evaluation**: wikiHow's website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site. Dummies is overall an accessible site with relevant functions. Despite some improvements and favorable options that wikiHow does not have, Dummies does lacks in areas that hurt their statement about being able to make information less intimidating. Although their guides are broken down from their books and are not as lengthy as that particular text, the lack of visuals and extra assistance can hurt learners that require more direction. 
+**Summary of Evaluations**: While wikiHow's website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site. Dummies is overall an accessible site with relevant functions. Despite some improvements and favorable options that wikiHow does not have, Dummies does lacks in areas that hurt their statement about being able to make information less intimidating. Although their guides are broken down from their books and are not as lengthy as that particular text, the lack of visuals and extra assistance can hurt learners that require more direction. 
 
 > [See Heuristic Evaluation](https://github.com/jackieqvo/DH110-JACKIEVO/blob/65f1ef5318d353339d5812f39d6c9309fe071ac8/Assignments/Assignment%2001/Assignment%2001.md).
 
