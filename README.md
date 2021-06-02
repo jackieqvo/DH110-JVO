@@ -6,7 +6,11 @@ You can use the [editor on GitHub](https://github.com/jackieqvo/jackieqvo/edit/m
 
 ## Introduction ## 
 
-What is the project about? The motivation of the project and possible contribution.
+This quarter’s focus was to create a UX project that would be able to help the senior age group. In our pre-class survey, we were asked to view websites that would be useful to the older generation. I decided to survey and study instructional websites. Ever since COVID-19, digital instruction has been the center of most learning and instructional mediums. With this, people are most likely in separation from those who are normally able to help and support them on their learning endeavors (big or small). 
+
+Most of the time, instructional websites are content heavy and are tailored to the younger generation. They dismiss the possibility that everyone’s intake in information is different and thus, the content that they have can be overwhelming to some users. A lot of the times, they assign a credible author to the instructional guide and leave the article up with no additional aid. This might discourage people from learning and reading guides on their own. 
+
+The UX project that I am designing is meant to be a start towards bridging the generational gaps and lapses in knowledge; by working towards a more accessible design that is inspired by established websites, I am aiming to create inclusive spaces that will overlook age groups and their technological abilities. Learning should be a right and not a privilege.
 
 ## Design Statement ## 
 
