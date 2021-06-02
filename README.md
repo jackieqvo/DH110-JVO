@@ -83,7 +83,7 @@ The two personas I focus on are August and Anne. While August is a academically 
 
 ![Version 2 of Wireflow](prototypewireflow.jpg)
 
-> [Read More about the Process of Making a Low-Fidelity Prototype](https://github.com/jackieqvo/DH110-JACKIEVO/blob/abbad5eee060878559d52c536cb7ed5957dd83ee/Assignments/Assignment%2004/Assignment%2004.md).
+> [Read More about the Process of Making a Low-Fidelity Prototype](https://github.com/jackieqvo/DH110-JACKIEVO/blob/98721efc44b71dd85f13e1087bf250c5ee31875d/Assignments/Assignment%2005/Assignment%2005.md).
 
 ## High-fidelity Prototype ## 
 
