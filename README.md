@@ -115,6 +115,8 @@ This high-fidelity prototype supports the following tasks:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRTitlnkgJGe96PjHmSxgjf%2FGenius-Mobile-Prototype%3Fnode-id%3D8%253A33%26scaling%3Dscale-down" allowfullscreen></iframe>
 
+> [Link to Prototype](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1) in case the embed does not work. | [Link to wireflow and wireframe](https://www.figma.com/file/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=0%3A1).
+
 > [See Interface Design Part 1 and 2](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md).
 
 ### Summary Statement ###
@@ -124,8 +126,6 @@ This high-fidelity prototype was made using Figma. Being able to learn an entire
 ## Optional Evaluation and Revision History ##
 
 While most of the evaluation and revision history can be found [here](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md), the most recent usability tests used to help finalize the prototype for this web documentation can be found [here](https://drive.google.com/file/d/1OmnNJX7QZp0JnFfdQNXlOhbW0ZT5xXZp/view?usp=sharing). The script for the usability test can be found [here](https://forms.gle/WR1MyeDG4uEUWoWY6).
-
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video ## 
 
