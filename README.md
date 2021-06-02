@@ -28,6 +28,16 @@ The UX project that I am designing is meant to be a start towards bridging the g
 
 ## User Research ## 
 
+### Target Users ###
+
+> **Demographics:** Anyone interested in learning about new skills and projects. People who are more inclined to learn on their own.
+> 
+> **Preferences:** Users who have the desire to learn and are looking for convenient resources to do so.
+> 
+> **Expertise:** Users do not need any particular level of expertise for this project.
+
+The context of use for this project is that users will be able to learn how to make a greeting card. To complete this activity, users will be able to follow a set of instructions and a list of materials.
+
 Summary and link to your assignment folder. 
 Contextual inquiry and Assignment 03.
 
