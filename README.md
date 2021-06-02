@@ -129,8 +129,12 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ## Pitch video ## 
 
-[update the video after recording your presentation]
+The pitch presentation can be found [here](https://drive.google.com/file/d/1FXq8oiIYLijdmgmTeH1EwSW_R3Xfh7Lw/view?usp=sharing).
 
 ## Conclusion ## 
 
-What I learned throughout the process. Takeaways.
+I am grateful for being able to learn as much as I did. In less than three months, I learned how to prototype something that can actually be tested. I got to get a glimpse of what being a UX designer might entail and it's safe to say that I am ending this course with even more interest in the field than I started with. Something I regret is not having more time and not knowing about UX design sooner. If I had more time, I would have loved to conduct more usability tests and find more people that fit my target users. I think it would have also been interesting to design my own buttons and logos from scratch. I was going to look into other programs with various features but I did not have enough time. 
+
+In terms of this project, I had two personas that encapsulated my target users well. I believe that I tested enough people (both technologically inclined and not) to conclude that despite always having room for improvement, this prototype is headed in a good direction. In the future, I am hoping to learn more and maybe transfer this prototype to another program. UX designs are constantly being tested and redesigned. I like that I am reminded that there is always space to do better. I really enjoyed this class and I appreciated the prompt that was presented to us for this project even more. 
+
+For the future, I hope to always be in a space where I am constantly learning. I hope that I can keep up the practice of documentation and working towards creating more user-centered products. My greatest takeaway from this class that UX design is not something that is purely based on aesthetics. There is an assumption that design and aesthetics are concrete and must go hand in hand but a visually aesthetic design does not guarantee that it is equitable or even user-friendly. 
