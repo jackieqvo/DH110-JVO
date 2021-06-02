@@ -38,8 +38,14 @@ The UX project that I am designing is meant to be a start towards bridging the g
 
 The context of use for this project is that users will be able to learn how to make a greeting card. To complete this activity, users will be able to follow a set of instructions and a list of materials.
 
-Summary and link to your assignment folder. 
-Contextual inquiry and Assignment 03.
+While the usability tests sheow me how someone might react and navitage to tasks on a website, a contextual inquiry gave the user more freedom to react to the website. 
+Summary and link to your assignment folder. During the inquiry, I gave broad tasks so that my user would show me how they would normally navigate a website. Whenever she needs instructional guides, my user had a preference for websites with:
+
+- Aesthetic visual presentation.
+- Conciseness in content.
+- Access to guides and answers in an efficient manner.
+
+> [See Contextual Inquiry](https://github.com/jackieqvo/DH110-JACKIEVO/blob/9e960ee945838afe3d8766048f7fde06716bef47/Assignments/Assignment%2003/Assignment%2003.md).
 
 ## UX Storytelling ##
 
