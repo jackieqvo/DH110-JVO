@@ -17,7 +17,8 @@ The UX project that I am designing is meant to be a start towards bridging the g
 
 ## Competitor Analysis ## 
 
-**Information** | **wikiHow Evaluation** | **Dummies Evaluation** --------------------|--------------------|-----------------------------
+**Information** | **wikiHow Evaluation** | **Dummies Evaluation**
+--------------------|--------------------|-----------------------------
 **Website** | [wikiHow](https://www.wikihow.com/Main-Page) | [Dummies](https://www.dummies.com/)
 **Screenshot** | ![wikiHow Home page](wikiHowhome.png) | ![Dummies Home page](Dummieshome.png)
 **Presentation** | wikiHow | Dummies
