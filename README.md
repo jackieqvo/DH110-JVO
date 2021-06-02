@@ -125,7 +125,7 @@ This high-fidelity prototype was made using Figma. Being able to learn an entire
 
 ## Optional Evaluation and Revision History ##
 
-While most of the evaluation and revision history can be found [here](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md), the most recent usability tests used to help finalize the prototype for this web documentation can be found [here](https://drive.google.com/file/d/1OmnNJX7QZp0JnFfdQNXlOhbW0ZT5xXZp/view?usp=sharing). The script for the usability test can be found [here](https://forms.gle/WR1MyeDG4uEUWoWY6).
+While most of the evaluation and revision history can be found [here](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md), the most recent usability test used to help finalize the prototype for this web documentation can be found [here](https://drive.google.com/file/d/1OmnNJX7QZp0JnFfdQNXlOhbW0ZT5xXZp/view?usp=sharing). The script for the usability test can be found [here](https://forms.gle/WR1MyeDG4uEUWoWY6).
 
 ## Pitch video ## 
 
