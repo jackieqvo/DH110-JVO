@@ -38,7 +38,7 @@ The UX project that I am designing is meant to be a start towards bridging the g
 
 The context of use for this project is that users will be able to learn how to make a greeting card. To complete this activity, users will be able to follow a set of instructions and a list of materials.
 
-While the usability tests sheow me how someone might react and navitage to tasks on a website, a contextual inquiry gave the user more freedom to react to the website. 
+While the usability tests sheow me how someone might react and navigate to tasks on a website, a contextual inquiry gave the user more freedom to react to the website. 
 Summary and link to your assignment folder. During the inquiry, I gave broad tasks so that my user would show me how they would normally navigate a website. Whenever she needs instructional guides, my user had a preference for websites with:
 
 - Aesthetic visual presentation.
