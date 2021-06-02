@@ -72,7 +72,7 @@ The two personas I focus on are August and Anne. While August is a academically 
 
 > The purpose of this low-fidelity prototype is to test how these features are able to flow and function in this earlier rendition of this how-to website. These prototypes will help see if the features will work for users in a setting that is not imagined. As the designer, I will again be able to watch how my users navigate and feel about my features. In addition to this, it would be a good opportunity for me to ask if there is something that they feel is lacking from the website/mobile application. 
 
-## Tasks ##
+### Tasks ###
 > This low fidelity prototype supports the following tasks:
 > 1. Searching an article
 > 2. Rating an article
@@ -81,14 +81,16 @@ The two personas I focus on are August and Anne. While August is a academically 
 
 ![Version 2 of Wireflow](prototypewireflow.jpg)
 
-> [Read More about the Process of Making a Low-Fidelity Prototype](https://github.com/jackieqvo/DH110-JACKIEVO/blob/98721efc44b71dd85f13e1087bf250c5ee31875d/Assignments/Assignment%2005/Assignment%2005.md).
+> [Read More about the Process of Making a Low-Fidelity Prototype](https://github.com/jackieqvo/DH110-JACKIEVO/blob/98721efc44b71dd85f13e1087bf250c5ee31875d/Assignments/Assignment%2005/Assignment%2005.md). | [See Interface Design Part 1 and 2](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md).
+
 
 ## High-fidelity Prototype ## 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRTitlnkgJGe96PjHmSxgjf%2FGenius-Mobile-Prototype%3Fnode-id%3D8%253A33%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-(functional/interactive prototype, assignment07)
-Summary statement and link to or an embedded prototype
+> [See Interface Design Part 1 and 2](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md).
+
+### Summary Statement ###
 
 ## Optional Evaluation and Revision History ##
 
