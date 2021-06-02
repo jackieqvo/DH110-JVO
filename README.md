@@ -17,12 +17,14 @@ The UX project that I am designing is meant to be a start towards bridging the g
 
 ## Competitor Analysis ## 
 
-**Information** | **wikiHow Evaluation** | **Dummies Evaluation** |
---------------------|--------------------|-----------------------------|
-**Website** | [wikiHow](https://www.wikihow.com/Main-Page) | [Dummies](https://www.dummies.com/)|
-**Screenshot** | ![wikiHow Home page](wikiHowhome.png) | ![Dummies Home page](Dummieshome.png)|
-**Presentation** | *wikiHow is a database of how-to-guides that consist of step-by-step instructions. These often consist of still and even animated images. The site is an open source that is typically found at the top of search results. The website is geared to help answer day-to-day questions.* | *Dummies or For Dummies is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and black. Their intention is to cover various topics and break down information that may appear to be intimidating for beginners.*| 
-**Overall Evaluation** |The website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site.|The website is overall an accessible site with relevant functions. Despite some improvements and favorable options that wikiHow does not have, Dummies lacks in areas that hurt their statement about being able to make information less intimidating. Although their guides are broken down from their books and are not as lengthy as that particular text, the lack of visuals and extra assistance can hurt learners that require more direction.|
+**wikiHow Evaluation** | **Dummies Evaluation**
+--------------------|--------------------
+[wikiHow](https://www.wikihow.com/Main-Page) | [Dummies](https://www.dummies.com/) |
+![wikiHow Home page](wikiHowhome.png) | ![Dummies Home page](Dummieshome.png) |
+
+**Overall Evaluation**: wikiHow's website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site. Dummies is overall an accessible site with relevant functions. Despite some improvements and favorable options that wikiHow does not have, Dummies does lacks in areas that hurt their statement about being able to make information less intimidating. Although their guides are broken down from their books and are not as lengthy as that particular text, the lack of visuals and extra assistance can hurt learners that require more direction. 
+
+> [See Heuristic Evaluation](https://github.com/jackieqvo/DH110-JACKIEVO/blob/65f1ef5318d353339d5812f39d6c9309fe071ac8/Assignments/Assignment%2001/Assignment%2001.md)
 
 
 ## User Research ## 
