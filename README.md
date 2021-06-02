@@ -48,6 +48,11 @@ Summary and link to your assignment folder. During the inquiry, I gave broad tas
 > [See Contextual Inquiry](https://github.com/jackieqvo/DH110-JACKIEVO/blob/9e960ee945838afe3d8766048f7fde06716bef47/Assignments/Assignment%2003/Assignment%2003.md).
 
 ## UX Storytelling ##
+
+By utilizing UX storytelling, I will be able to better understand the user's perspective and thus, continue to filter out potential biases and personal points that I may have held onto during the usability testing and the contextual inquiry interview. In addition to this, UX storytelling is able to build upon the data that is gathered from these interviews by pushes the focus onto the user. These methods are meant to be user-centered and a user's experience goes beyond their interaction with a website or program's design.
+
+The two personas I focus on are August and Anne. While August is a academically oriented individual, Anne is someone that is someone who is only beginning to learn again. The two personas are on opposite ends of the spectrum. With these personas and scenarios in mind, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
+
 ![Persona 1 and 2](personascenario.gif)
 
 > [Read More About UX Storytelling](https://github.com/jackieqvo/DH110-JACKIEVO/blob/abbad5eee060878559d52c536cb7ed5957dd83ee/Assignments/Assignment%2004/Assignment%2004.md).
