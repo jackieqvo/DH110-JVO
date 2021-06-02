@@ -48,9 +48,9 @@ Summary and link to your assignment folder. During the inquiry, I gave broad tas
 > [See Contextual Inquiry](https://github.com/jackieqvo/DH110-JACKIEVO/blob/9e960ee945838afe3d8766048f7fde06716bef47/Assignments/Assignment%2003/Assignment%2003.md).
 
 ## UX Storytelling ##
+![Persona 1 and 2](personascenario.gif)
 
-[persona+scenario, assignment04]
-Summary and link to your assignment folder
+> [Read More About UX Storytelling](https://github.com/jackieqvo/DH110-JACKIEVO/blob/abbad5eee060878559d52c536cb7ed5957dd83ee/Assignments/Assignment%2004/Assignment%2004.md).
 
 ## Wireframe and Graphic Design Element Variation
 
