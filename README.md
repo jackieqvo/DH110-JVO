@@ -133,4 +133,4 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ## Conclusion ## 
 
-What you learned throughout the process.
+What I learned throughout the process. Takeaways.
