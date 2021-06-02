@@ -97,13 +97,33 @@ For the final prototype, the tasks mentioned above were altered. Some functions 
 
 ## High-fidelity Prototype ## 
 
+This high-fidelity prototype supports the following tasks:
+
+* Searching up an article (article is predetermined).
+  * Users will be looking up how to make a generic pop-up card.
+* Looking into related articles.
+  * On top of the exploration page, there will be tab that will let users explore related articles. In this case, the user will be looking at a navigation page that will lead them to other arts and crafts guides.
+* Submitting feedback and cancelling the submission.
+  * Users will get the chance to submit feedback (fake interaction with established text). There will be required fields but users are also able to cancel their submission. There will be overlays that asks the user if they are sure they are ready to submit, cancel, etc.
+* Question submission.
+  * When looking through an article, users will be able to see frequently asked questions and also submit their own. This will be a fake interaction with established text. 
+* Bookmarking (saving) and unbookmarking (unsaving) article(s).
+* Checking trending categories to explore the website.
+  * This trending categories page is a concept. The working button will be the arts and crafts category. Upon clicking this, they will be revisiting the related articles page.
+* Dark mode.
+  * Dark mode is sampled only on the homepage. I went with the color scheme of **#696969** for the background and **#E9E9E9** and **#FFFFFF** for the text, borders, and buttons. Aside from the color, the format should remain the same. 
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRTitlnkgJGe96PjHmSxgjf%2FGenius-Mobile-Prototype%3Fnode-id%3D8%253A33%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 > [See Interface Design Part 1 and 2](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md).
 
 ### Summary Statement ###
 
+This high-fidelity prototype was made using Figma. Being able to learn an entirely new program to create an entire prototype over the course of one quarter has been very rewarding. Figma helped me solidify my vision for an instructional website. From designing screens to testing various colors and logo options, I was also able to conduct usability tests so I could further improve my design.
+
 ## Optional Evaluation and Revision History ##
+
+While most of the evaluation and revision history can be found > [here](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md), the most recent usability tests used to help finalize the prototype for this web documentation can be found [here](https://drive.google.com/file/d/1OmnNJX7QZp0JnFfdQNXlOhbW0ZT5xXZp/view?usp=sharing). The script for the usability test can be found [here](https://forms.gle/WR1MyeDG4uEUWoWY6).
 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
