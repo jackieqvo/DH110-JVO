@@ -132,6 +132,8 @@ Based on my most recent usability test, here are some things that have been alte
 
 * Homepage Revision
   * The application's logo is moved towards the search bar and the thicker header is altered. The user said that the original header design on the homepage made the center of the page look too empty. With the logo more centered, it better indicates to the user where they are.
+* Search Bar Depth
+  * Before, the text in the search bar was no so prominent. By adding depth to the search bar, the searched text (the text that is typed) is easily seen and the search bar itself has better focus. The point of the website is to be able to search the guides so the search bar function is important in its visuals and design. This also keeps the application consistent because of the newly implemented dropshadows in the still features.
 * Still Features Dropshadow
   * Throughout the design, the header and footer are mostly still features. The content in between is scrollable. At first this did not look intentional so by adding a drop shadow, the design is enhanced by depth and my design looks more deliberate. 
 * Feedback Button
