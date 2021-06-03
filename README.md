@@ -22,7 +22,7 @@ The UX project that I am designing is meant to be a start towards bridging the g
 [wikiHow](https://www.wikihow.com/Main-Page) | [Dummies](https://www.dummies.com/) |
 ![wikiHow Home page](wikiHowhome.png) | ![Dummies Home page](Dummieshome.png) |
 
-**Summary of Evaluations**: While wikiHow's website is overall an accessible site with relevant functions, the main issue with this website is that there is a lot of clutter. The website is content heavy and might overwhelm users. There are some issues that are listed explicitly in my heuristic evaluation but it is still overall a user-friendly site. On the other hand, Dummies has a sleek design and their design presentation is probably more favorable. Even so, Dummies does lacks in areas that hurt their statement about being able to make information less intimidating. Their guides might be shorter than their books but the lack of visuals and extra assistance can hurt learners that require more direction. 
+**Summary of Evaluations**: While wikiHow's website is overall an accessible site with relevant functions, the main issue with this website is that there is a lot of clutter. The website is content heavy and might overwhelm users. There are some issues that are listed explicitly in my heuristic evaluation but it is still overall a user-friendly site. On the other hand, Dummies has a sleek design and their design presentation is probably more favorable. Even so, Dummies does lack in areas that hurt their statement about being able to make information less intimidating. Their guides might be shorter than their books but the lack of visuals and extra assistance can hurt learners that require more direction. 
 
 > [See Heuristic Evaluation](https://github.com/jackieqvo/DH110-JACKIEVO/blob/65f1ef5318d353339d5812f39d6c9309fe071ac8/Assignments/Assignment%2001/Assignment%2001.md). | [See Pilot Usability Testing](https://github.com/jackieqvo/DH110-JACKIEVO/blob/65f1ef5318d353339d5812f39d6c9309fe071ac8/Assignments/Assignment%2002/Assignment%2002.md).
 
@@ -49,9 +49,9 @@ Summary and link to your assignment folder. During the inquiry, I gave broad tas
 
 ## UX Storytelling ##
 
-By utilizing UX storytelling, I will be able to better understand the user's perspective and thus, continue to filter out potential biases and personal points that I may have held onto during the usability testing and the contextual inquiry interview. In addition to this, UX storytelling is able to build upon the data that is gathered from these interviews by pushes the focus onto the user. These methods are meant to be user-centered and a user's experience goes beyond their interaction with a website or program's design.
+By utilizing UX storytelling, I will be able to better understand the user's perspective and thus, continue to filter out potential biases and personal points that I may have held onto during the usability testing and the contextual inquiry interview. In addition to this, UX storytelling is able to build upon the data that is gathered from these interviews by pushing the focus onto the user. These methods are meant to be user-centered and a user's experience goes beyond their interaction with a website or program's design.
 
-The two personas I focus on are August and Anne. While August is a academically oriented individual, Anne is someone that is only beginning to learn again. The two personas are on opposite ends of the academic spectrum. With these personas and scenarios in mind, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
+The two personas I focus on are August and Anne. While August is an academically oriented individual, Anne is someone that is only beginning to learn again. The two personas are on opposite ends of the academic spectrum. With these personas and scenarios in mind, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
 
 ![Persona 1 and 2](personascenario.gif)
 
@@ -64,7 +64,7 @@ The two personas I focus on are August and Anne. While August is a academically 
 > This project is looking to solve user difficulties when searching online for how-to guides in their day-to-day tasks. The target community is anyone looking to self-teach and learn. These users are people who prefer to look for solutions to their projects in an efficient and clear manner. Based on user research from previous assignments, the following features are meant to solve the overcomplicated guides that may be found on the internet. 
 
 * **Minimalist Design**: To help users not feel so overwhelmed at the search results.
-* **Recommendation Feature**: Takes into account the category of the search to suggest related articles for more specific guides. This feature will probably me a pull-out tab so it does not distract from the main article. 
+* **Recommendation Feature**: Takes into account the category of the search to suggest related articles for more specific guides. This feature will probably be a pull-out or a pop-up tab so it does not distract from the main article. 
 * **Informational Section**: Content such as "Tips and Warnings" and "Things You'll Need" are more essential and should be emphasized. If strategically placed, users will be able to feel more confident and/or better gauge their capabilities before pursuing the project. *See next feature*: Users will be able to rate and critique content like materials, warnings, and even tips.
 * **Ratings**: Articles are rated based on their concise and clear instructions. Think of an "upvote" on Reddit. With this, users will also be able to rate parts of the article and submit their own comments for improvement.
 
@@ -102,9 +102,9 @@ This high-fidelity prototype supports the following tasks:
 * Searching up an article (article is predetermined).
   * Users will be looking up how to make a generic pop-up card.
 * Looking into related articles.
-  * On top of the exploration page, there will be tab that will let users explore related articles. In this case, the user will be looking at a navigation page that will lead them to other arts and crafts guides.
+  * On top of the exploration page, there will be a tab that will let users explore related articles. In this case, the user will be looking at a navigation page that will lead them to other arts and crafts guides.
 * Submitting feedback and cancelling the submission.
-  * Users will get the chance to submit feedback (fake interaction with established text). There will be required fields but users are also able to cancel their submission. There will be overlays that asks the user if they are sure they are ready to submit, cancel, etc.
+  * Users will get the chance to submit feedback (fake interaction with established text). There will be required fields but users are also able to cancel their submission. There will be overlays that ask the user if they are sure they are ready to submit, cancel, etc.
 * Question submission.
   * When looking through an article, users will be able to see frequently asked questions and also submit their own. This will be a fake interaction with established text. 
 * Bookmarking (saving) and unbookmarking (unsaving) article(s).
@@ -133,15 +133,15 @@ Based on my most recent usability test, here are some things that have been alte
 * Homepage Revision
   * The application's logo is moved towards the search bar and the thicker header is altered. The user said that the original header design on the homepage made the center of the page look too empty. With the logo more centered, it better indicates to the user where they are.
 * Search Bar Depth
-  * Before, the text in the search bar was no so prominent. By adding depth to the search bar, the searched text (the text that is typed) is easily seen and the search bar itself has better focus. The point of the website is to be able to search the guides so the search bar function is important in its visuals and design. This also keeps the application consistent because of the newly implemented dropshadows in the still features.
-* Still Features Dropshadow
+  * Before, the text in the search bar was not so prominent. By adding depth to the search bar, the searched text (the text that is typed) is easily seen and the search bar itself has better focus. The point of the website is to be able to search the guides so the search bar function is important in its visuals and design. This also keeps the application consistent because of the newly implemented drop shadows in the still features.
+* Still Features Drop Shadow
   * Throughout the design, the header and footer are mostly still features. The content in between is scrollable. At first this did not look intentional so by adding a drop shadow, the design is enhanced by depth and my design looks more deliberate. 
 * Feedback Button
   * Even though the feedback option was in a still footer, not all users saw this. I implemented a still feedback option so when users are scrolling through the article, a feedback option might be more apparent. 
 * Buttons and Outlines
   * Buttons have an outline to help the contrast between the background and the many features of a website design that is meant to be content heavy. 
 * Overlays
-  * Overlays should be fixed. Before, overlays did not swap with each other but instead, were stacked on top of one another. If a user where to click "x" to close a pop-up box, then they would not have their expected outcome because the previous screen would still be there. 
+  * Overlays should be fixed. Before, overlays did not swap with each other but instead, were stacked on top of one another. If a user were to click "x" to close a pop-up box, then they would not have their expected outcome because the previous screen would still be there. 
 
 ## Pitch video ## 
 
@@ -153,6 +153,6 @@ I am grateful for being able to learn as much as I did. In less than three month
 
 In terms of this project, I had two personas that encapsulated my target users well. I believe that I tested enough people (both technologically inclined and not) to conclude that despite always having room for improvement, this prototype is headed in a good direction. In the future, I am hoping to learn more and maybe transfer this prototype to another program. UX designs are constantly being tested and redesigned. I like that I am reminded that there is always space to do better. I really enjoyed this class and I appreciated the prompt that was presented to us for this project even more. 
 
-For the future, I hope to always be in a space where I am constantly learning. I hope that I can keep up the practice of documentation and working towards creating more user-centered products. My greatest takeaway from this class that UX design is not something that is purely based on aesthetics. There is an assumption that design and aesthetics are concrete and must go hand in hand but a visually aesthetic design does not guarantee that it is equitable or even user-friendly. It is only one component of a good UX design.
+For the future, I hope to always be in a space where I am constantly learning. I hope that I can keep up the practice of documentation and working towards creating more user-centered products. My greatest takeaway from this class is that UX design is not something that is purely based on aesthetics. There is an assumption that design and aesthetics are concrete and must go hand in hand but a visually aesthetic design does not guarantee that it is equitable or even user-friendly. It is only one component of a good UX design.
 
 Overall, I hope that this project is a good step towards promoting online instruction by aiding scholars regardless of their age and skill.
