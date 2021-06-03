@@ -137,9 +137,9 @@ Based on my most recent usability test, here are some things that have been alte
 * Feedback Button
   * Even though the feedback option was in a still footer, not all users saw this. I implemented a still feedback option so when users are scrolling through the article, a feedback option might be more apparent. 
 * Buttons and Outlines
- * Buttons have an outline to help the contrast between the background and the many features of a website design that is meant to be content heavy. 
+  * Buttons have an outline to help the contrast between the background and the many features of a website design that is meant to be content heavy. 
 * Overlays
- * Overlays should be fixed. Before, overlays did not *swap* with each other but instead, were stacked on top of one another. If a user where to click "x" to close a pop-up box, then they would not have their expected outcome because the previous screen would still be there. 
+  * Overlays should be fixed. Before, overlays did not swap with each other but instead, were stacked on top of one another. If a user where to click "x" to close a pop-up box, then they would not have their expected outcome because the previous screen would still be there. 
 
 ## Pitch video ## 
 
