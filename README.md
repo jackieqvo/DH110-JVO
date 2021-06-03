@@ -108,6 +108,7 @@ This high-fidelity prototype supports the following tasks:
 * Question submission.
   * When looking through an article, users will be able to see frequently asked questions and also submit their own. This will be a fake interaction with established text. 
 * Bookmarking (saving) and unbookmarking (unsaving) article(s).
+  * To go back to articles easily for sharing and/or genuinely learning about how to do the task.
 * Checking trending categories to explore the website.
   * This trending categories page is a concept. The working button will be the arts and crafts category. Upon clicking this, they will be revisiting the related articles page.
 * Dark mode.
