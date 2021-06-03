@@ -127,6 +127,20 @@ This high-fidelity prototype was made using Figma. Being able to learn an entire
 
 While most of the evaluation and revision history can be found [here](https://github.com/jackieqvo/DH110-JACKIEVO/blob/c7b1f44259cf3a1624bedbccb53709f09f5d6012/Assignments/Assignment%2006/Assignment%2006.md), the most recent usability test used to help finalize the prototype for this web documentation can be found [here](https://drive.google.com/file/d/1OmnNJX7QZp0JnFfdQNXlOhbW0ZT5xXZp/view?usp=sharing). The script for the usability test can be found [here](https://forms.gle/WR1MyeDG4uEUWoWY6).
 
+### Finalizations ###
+Based on my most recent usability test, here are some things that have been altered a little from before and since then: 
+
+* Homepage Revision
+  * The application's logo is moved towards the search bar and the thicker header is altered. The user said that the original header design on the homepage made the center of the page look too empty. With the logo more centered, it better indicates to the user where they are.
+* Still Features Dropshadow
+  * Throughout the design, the header and footer are mostly still features. The content in between is scrollable. At first this did not look intentional so by adding a drop shadow, the design is enhanced by depth and my design looks more deliberate. 
+* Feedback Button
+  * Even though the feedback option was in a still footer, not all users saw this. I implemented a still feedback option so when users are scrolling through the article, a feedback option might be more apparent. 
+* Buttons and Outlines
+ * Buttons have an outline to help the contrast between the background and the many features of a website design that is meant to be content heavy. 
+* Overlays
+ * Overlays should be fixed. Before, overlays did not *swap* with each other but instead, were stacked on top of one another. If a user where to click "x" to close a pop-up box, then they would not have their expected outcome because the previous screen would still be there. 
+
 ## Pitch video ## 
 
 The pitch presentation can be found [here](https://drive.google.com/file/d/1FXq8oiIYLijdmgmTeH1EwSW_R3Xfh7Lw/view?usp=sharing).
